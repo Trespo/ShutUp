@@ -1,0 +1,6 @@
+name: ShutUp
+version: '${project.version}'
+main: me.trespo.shutup.Main
+api-version: 1.17
+authors: [ Trespo ]
+description: game tells you to shut up whenever you talk
